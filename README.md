@@ -13,3 +13,6 @@
 #Enables helpful colorization of command line output
 
  git config --global color.ui auto
+
+ # Snaphop of file
+ git add [file]
